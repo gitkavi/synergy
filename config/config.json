@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "projectmanagementdb",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "port": 8889
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "b9fzetiqiijpcxxg",
+    "password": "nvt4uv2a9w5dohne",
+    "port":3306,
+    "database": "grle8s4sjsvb8iwe",
+    "host": "zf4nk2bcqjvif4in.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  }
+}

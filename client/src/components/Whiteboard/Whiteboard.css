@@ -1,0 +1,68 @@
+
+  
+  span {
+    background-color: darkgrey;
+    padding: 0.3rem;
+    font-size: 0.8em;
+    font-family: monospace;
+  }
+  
+  p {
+    line-height: 1.6em;
+  }
+  
+  .tools {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+  }
+  
+  input[type=number] {
+    width: 50px;
+  }
+
+  canvas {
+      margin-left: -200px;
+      margin-top: 10px;
+      outline: indianred 15px solid;
+  }
+
+
+
+  .btn-primary {
+    background-color: #cf353f;
+    border-color: black;
+  }
+  
+  .btn-primary:active,
+  .btn-primary:focus,
+  .btn-primary:hover {
+    background-color: black !important;
+    border-color: #cf353f !important;
+  }
+  
+  .btn-primary:focus {
+    box-shadow: 0 0 0 0.2rem rgba(187, 8, 8, 0.5);
+  }
+  
+  .btn-secondary {
+    background-color: #cf353f;
+    border-color: #cf353f;
+  }
+  
+  .btn-secondary:active,
+  .btn-secondary:focus,
+  .btn-secondary:hover {
+    background-color: #cf353f !important;
+    border-color: black !important;
+  }
+  
+  .btn-secondary:focus {
+    box-shadow: 0 0 0 0.2rem rgba(255, 106, 0, 0.5);
+  }
+
+  .wbbtn
+  {
+    background-color: indianred;
+    margin-right: 0%;
+  }

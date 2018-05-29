@@ -1,0 +1,42 @@
+.card{
+    margin: 10px;
+    font-size: 15px;
+    text-align: justify;
+}
+strong {
+    margin: 10px;
+}
+.modal-title{
+    width: 100%;
+    font-size: 40px;
+}
+
+#x-button{
+    float: right;
+}
+
+.descbox
+{
+    width:100%;
+    height:70px;
+}
+
+.updateTask{
+    width:100%
+}
+
+.headers{
+    margin-left: 0px;
+}
+
+.roundBtn {
+    width:30px;
+    height:30px;
+    border-radius:50%;
+    font-size:11px;
+    padding:0px;
+    text-align:center;
+    padding-left:3px;
+    padding-top:2px;
+    background-color:lightgray
+  }
